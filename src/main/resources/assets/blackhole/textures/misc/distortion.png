@@ -1,0 +1,4 @@
+# Placeholder for distortion.png
+# This should be a 16x16 or 32x32 grayscale noise texture for chromatic aberration
+# Create a proper PNG file with noise pattern for the lensing effect
+# For now, this is just a placeholder - replace with actual texture
